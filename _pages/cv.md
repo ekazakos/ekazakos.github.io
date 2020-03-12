@@ -1,5 +1,5 @@
 ---
-<!-- layout: archive -->
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<!-- <embed src="https://ekazakos.github.io/files/CV.pdf" width="650" height="1800" type='application/pdf'> -->
