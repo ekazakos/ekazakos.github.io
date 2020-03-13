@@ -2,7 +2,7 @@
 title: "Inferring human activities using robust privileged probabilistic learning"
 collection: publications
 permalink: /publication/ACTIONCRF
-date: 2017
+date: 2017-10-22
 venue: 'International Conference of Computer Vision Workshops'
 ---
 
