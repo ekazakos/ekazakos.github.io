@@ -5,6 +5,6 @@ author_profile: true
 ---
 
 <br>
-[Inferring human activities using robust privileged probabilistic learning](https://ekazakos.github.io/publications/ACTIONCRF)<br> 
+<b>[Inferring human activities using robust privileged probabilistic learning](https://ekazakos.github.io/publications/ACTIONCRF)</b> <br> 
 Michalis Vrigkas, <b>Evangelos Kazakos</b>, Christophoros Nikou, Ioannis A Kakadiaris.
 <i>ICCVW 2017</i>.
