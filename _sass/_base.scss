@@ -116,7 +116,9 @@ a {
     @extend %tab-focus;
   }
 
-  &:hover,
+  &:hover {
+    color: red
+  },
   &:active {
     outline: 0;
   }
