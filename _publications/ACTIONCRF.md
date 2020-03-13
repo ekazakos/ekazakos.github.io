@@ -5,7 +5,6 @@ permalink: /publications/ACTIONCRF
 date: 2017-10-22
 venue: 'IEEE International Conference on Computer Vision Workshops'
 ---
-
 [PDF](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Vrigkas_Inferring_Human_Activities_ICCV_2017_paper.pdf)
 
 ## Abstract

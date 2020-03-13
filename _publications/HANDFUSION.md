@@ -5,7 +5,6 @@ permalink: /publications/HANDFUSION
 date: 2018-10-7
 venue: 'IEEE International Conference on Image Processing'
 ---
-
 [PDF](https://ekazakos.github.io/files/rgbd_fusion_handpose_Kazakos_ICIP_2018.pdf)
 
 ## Abstract

@@ -3,7 +3,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 <br>
 <b>[On the Fusion of RGB and Depth Information for Hand Pose Estimation](https://ekazakos.github.io/publications/HANDFUSION)</b> <br> 
 <b>Evangelos Kazakos</b>, Christophoros Nikou, Ioannis A Kakadiaris.
