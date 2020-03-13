@@ -1,5 +1,5 @@
 ---
-title: "Inferring human activities using robust privileged probabilistic learning"
+title: "Inferring Human Activities Using Robust Privileged Probabilistic Learning"
 collection: publications
 permalink: /publications/ACTIONCRF
 date: 2017-10-22
