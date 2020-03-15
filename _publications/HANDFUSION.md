@@ -6,7 +6,7 @@ date: 2018-10-7
 venue: 'IEEE International Conference on Image Processing (ICIP 2018)'
 citation: '<b>Evangelos Kazakos</b>, Christophoros Nikou, Ioannis A Kakadiaris. <i>IEEE International Conference on Image Processing</i>. <b>ICIP 2018</b>.'
 ---
-[PDF](https://ekazakos.github.io/files/rgbd_fusion_handpose_Kazakos_ICIP_2018.pdf)
+[PDF](https://ekazakos.github.io/files/rgbd_fusion_handpose_Kazakos_ICIP_2018.pdf)[[Code]](https://github.com/ekazakos/fusenet-hand-pose)[[bibtex]](http://ekazakos.github.io/files/fusenet_handpose.bib)
 
 ## Abstract
 Recent advances in deep learning have spurred 3D hand pose

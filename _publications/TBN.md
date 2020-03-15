@@ -6,7 +6,7 @@ date: 2019-10-27
 venue: 'IEEE International Conference on Computer Vision (ICCV 2019)'
 citation: '<b>Evangelos Kazakos</b>, Arsha Nagrani, Andrew Zisserman, Dima Damen. <i>Proceedings of the IEEE International Conference on Computer Vision</i>. <b>ICCV 2019</b>.'
 ---
-[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kazakos_EPIC-Fusion_Audio-Visual_Temporal_Binding_for_Egocentric_Action_Recognition_ICCV_2019_paper.pdf)
+[[PDF]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kazakos_EPIC-Fusion_Audio-Visual_Temporal_Binding_for_Egocentric_Action_Recognition_ICCV_2019_paper.pdf)[[Project]](http://ekazakos.github.io/TBN/)[[Code]](https://github.com/ekazakos/temporal-binding-network)[[bibtex]](http://ekazakos.github.io/files/tbn.bib)
 
 ## Abstract
 We focus on multi-modal fusion for egocentric action recognition, and propose a 
