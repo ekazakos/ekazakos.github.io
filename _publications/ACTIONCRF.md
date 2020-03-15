@@ -3,7 +3,8 @@ title: "Inferring Human Activities Using Robust Privileged Probabilistic Learnin
 collection: publications
 permalink: /publications/ACTIONCRF
 date: 2017-10-22
-venue: 'IEEE International Conference on Computer Vision Workshops'
+venue: 'IEEE International Conference on Computer Vision Workshops (ICCVW 2017)'
+citation: 'Michalis Vrigkas, <b>Evangelos Kazakos</b>, Christophoros Nikou, Ioannis A Kakadiaris. <i>Proceedings of the IEEE International Conference on Computer Vision Workshops</i>. <b>ICCVW 2017</b>.'
 ---
 [PDF](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Vrigkas_Inferring_Human_Activities_ICCV_2017_paper.pdf)
 

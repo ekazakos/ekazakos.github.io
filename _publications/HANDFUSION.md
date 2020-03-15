@@ -3,7 +3,8 @@ title: "On the Fusion of RGB and Depth Information for Hand Pose Estimation"
 collection: publications
 permalink: /publications/HANDFUSION
 date: 2018-10-7
-venue: 'IEEE International Conference on Image Processing'
+venue: 'IEEE International Conference on Image Processing (ICIP 2018)'
+citation: '<b>Evangelos Kazakos</b>, Christophoros Nikou, Ioannis A Kakadiaris. <i>IEEE International Conference on Image Processing</i>. <b>ICIP 2018</b>.'
 ---
 [PDF](https://ekazakos.github.io/files/rgbd_fusion_handpose_Kazakos_ICIP_2018.pdf)
 
