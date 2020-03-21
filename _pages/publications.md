@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+sitemap: false
 permalink: /publications/
 author_profile: true
 ---
