@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+# About me
 
 * I am a PhD student at the Department of Computer Science, [University of Bristol](https://www.bristol.ac.uk), Bristol, UK.
 My PhD project is on audio-visual action recognition, with a focus on egocentric videos. 
@@ -20,4 +20,4 @@ and the modelling of audio-visual DNN architectures that can capture such intera
 under the supervision of [Christophoros Nikou](http://www.cs.uoi.gr/~cnikou/).
 My MSc thesis was on RGB-D fusion for hand pose estimation ([paper](https://ekazakos.github.io/publications/HANDFUSION)).
 
-## News
+# News
