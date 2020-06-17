@@ -21,3 +21,6 @@ under the supervision of [Christophoros Nikou](http://www.cs.uoi.gr/~cnikou/).
 My MSc thesis was on RGB-D fusion for hand pose estimation ([paper](https://ekazakos.github.io/publications/HANDFUSION)).
 
 # News
+
+* I gave a talk @ [Sight and Sound Workshop - CVPR 2020](http://sightsound.org) for 
+our work [EPIC-Fusion](https://ekazakos.github.io/TBN/). It can be watched [here](https://www.youtube.com/watch?time_continue=2&v=nhUoCbJ3_IQ&feature=emb_logo).
