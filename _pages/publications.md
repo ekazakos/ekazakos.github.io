@@ -5,7 +5,8 @@ author_profile: true
 ---
 <br>
 <b>[Rescaling Egocentric Vision](https://epic-kitchens.github.io/2020-100)</b> <br> 
-Dima Damen, Hazel Doughty, Giovanni Maria Farinella, Antonino Furnari, Jian Ma, <b>Evangelos Kazakos</b>, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, Michael Wray.
+Dima Damen, Hazel Doughty, Giovanni Maria Farinella, Antonino Furnari, Jian Ma, <br>
+<b>Evangelos Kazakos</b>, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, Michael Wray.
 <b>CoRR 2020</b>.
 
 <b>[The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines](https://epic-kitchens.github.io/2020-55.html)</b> <br> 
