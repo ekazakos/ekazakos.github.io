@@ -4,12 +4,21 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Rescaling Egocentric Vision](https://epic-kitchens.github.io/2020-100)</b> <br> 
+Dima Damen, Hazel Doughty, Giovanni Maria Farinella, Antonino Furnari, Jian Ma, <b>Evangelos Kazakos</b>, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, Michael Wray.
+<b>CoRR 2020</b>.
+
+<b>[The EPIC-KITCHENS Dataset: Collection, Challenges and Baselines](https://epic-kitchens.github.io/2020-55.html)</b> <br> 
+Dima Damen, Hazel Doughty, Giovanni Maria Farinella, Sanja Fidler, Antonino Furnari, <b>Evangelos Kazakos</b>, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, Michael Wray.
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>.
+<b>TPAMI 2020</b>.
+
 <b>[EPIC-Fusion: Audio-Visual Temporal Binding for Egocentric Action Recognition](http://ekazakos.github.io/TBN/)</b> <br> 
 <b>Evangelos Kazakos</b>, Arsha Nagrani, Andrew Zisserman, Dima Damen.
 <i>Proceedings of the IEEE International Conference on Computer Vision</i>.
 <b>ICCV 2019</b>.
 
-<b>[Scaling Egocentric Vision: The EPIC-Kitchens Dataset](https://epic-kitchens.github.io/2020)</b> <br> 
+<b>[Scaling Egocentric Vision: The EPIC-Kitchens Dataset](https://epic-kitchens.github.io/2020-55.html)</b> <br> 
 Dima Damen, Hazel Doughty, Giovanni Maria Farinella, Sanja Fidler, Antonino Furnari, <b>Evangelos Kazakos</b>, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, Michael Wray.
 <i>Proceedings of the European Conference on Computer Vision</i>.
 <b>ECCV 2018</b>.
