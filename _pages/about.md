@@ -22,6 +22,7 @@ My MSc thesis was on RGB-D fusion for hand pose estimation ([paper](https://ekaz
 
 # News
 
+* EPIC-KITCHENS-100 has now been released. [Download](https://epic-kitchens.github.io/2020-100#downloads)
 * Our paper "Rescaling Egocentric Vision" is now on [arXiv](https://arxiv.org/abs/2006.13256).
 * I gave a talk @ [Sight and Sound Workshop - CVPR 2020](http://sightsound.org) for 
 our work [EPIC-Fusion](https://ekazakos.github.io/TBN/). It can be watched [here](https://www.youtube.com/watch?time_continue=2&v=nhUoCbJ3_IQ&feature=emb_logo).
