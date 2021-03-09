@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Slow-Fast Auditory Streams for Audio Recognition](https://ekazakos.github.io/auditoryslowfast/)</b> <br>
+<b>Evangelos Kazakos</b>, Arsha Nagrani, Andrew Zisserman, Dima Damen.
+<i>International Conference on Acoustics, Speech, and Signal Processing</i>
+<b>ICASSP 2021</b>.
+
 <b>[Rescaling Egocentric Vision](https://epic-kitchens.github.io/2020-100)</b> <br> 
 Dima Damen, Hazel Doughty, Giovanni Maria Farinella, Antonino Furnari, Jian Ma, <br>
 <b>Evangelos Kazakos</b>, Davide Moltisanti, Jonathan Munro, Toby Perrett, Will Price, Michael Wray.
