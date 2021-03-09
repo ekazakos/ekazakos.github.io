@@ -22,6 +22,7 @@ My MSc thesis was on RGB-D fusion for hand pose estimation ([paper](https://ekaz
 
 # News
 
+* Our paper "Slow-Fast Auditory Streams for Audio Recognition", accepted at ICASSP 2021, is now on [arXiv](https://arxiv.org/abs/2103.03516)
 * EPIC-KITCHENS-100 has now been released. [Download](https://epic-kitchens.github.io/2020-100#downloads)
 * Our paper "Rescaling Egocentric Vision" is now on [arXiv](https://arxiv.org/abs/2006.13256).
 * I gave a talk @ [Sight and Sound Workshop - CVPR 2020](http://sightsound.org) for 
